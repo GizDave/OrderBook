@@ -1,4 +1,3 @@
-
 The application manages a database that tracks each user's portfolio and updates portfolio data as transactions are completed.
 This data includes:
 - Information about each user, including name and financial account balance
@@ -11,5 +10,3 @@ those shares.
 
 When a transaction takes place, the application should transfer the amount of money exchanged from the buyer's account to the
 seller's account.
-
-<hr />
